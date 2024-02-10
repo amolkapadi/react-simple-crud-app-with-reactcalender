@@ -1,0 +1,18 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  background-color: #3f51b5;
+
+}
+.selected-date {
+  background-color: #3498db; /* Change the color as needed */
+  color: #fff; /* Optional: Change the text color for better visibility */
+}
+
+.card{
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
